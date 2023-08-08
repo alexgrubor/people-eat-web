@@ -16,6 +16,7 @@
         "react": "18.2.0",
         "react-dom": "18.2.0",
         "@people-eat/web-components": "*",
+        "@people-eat/web-domain": "*",
         "@people-eat/web-translations": "*",
         "@people-eat/web-utils": "*"
     },

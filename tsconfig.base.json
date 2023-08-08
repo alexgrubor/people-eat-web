@@ -16,6 +16,8 @@
         "baseUrl": ".",
         "paths": {
             "@people-eat/web-components": ["packages/web-components/src/index.ts"],
+            "@people-eat/web-domain": ["packages/web-domain/src/index.ts"],
+            "@people-eat/web-domain/*": ["packages/web-domain/src/*"],
             "@people-eat/web-translations": ["packages/web-translations/src/index.ts"],
             "@people-eat/web-utils": ["packages/web-utils/src/index.ts"]
         }

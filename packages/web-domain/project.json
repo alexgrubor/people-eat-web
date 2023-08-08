@@ -1,0 +1,23 @@
+{
+    "name": "web-domain",
+    "$schema": "../../node_modules/nx/schemas/project-schema.json",
+    "sourceRoot": "packages/web-domain/src",
+    "projectType": "library",
+    "targets": {
+        "build": {
+            "executor": "@nx/vite:build",
+            "outputs": ["{options.outputPath}"],
+            "options": {
+                "outputPath": "dist/packages/web-domain"
+            }
+        },
+        "lint": {
+            "executor": "@nx/linter:eslint",
+            "outputs": ["{options.outputFile}"],
+            "options": {
+                "lintFilePatterns": ["packages/web-domain/**/*.ts", "packages/web-domain/package.json"]
+            }
+        }
+    },
+    "tags": []
+}
