@@ -1,0 +1,30 @@
+export interface CookSignUpPageTranslations {
+    address: string;
+    'complete-button-label': string;
+    'cook-rank': string;
+    'email-address': string;
+    'first-name': string;
+    headline: string;
+    languages: string;
+    'last-name': string;
+    'maximum-customers-label': string;
+    'maximum-customers-limit': string;
+    password: string;
+    'password-repeat': string;
+    'phone-number': string;
+    'privacy-policy-label': string;
+    'privacy-policy-label-link': string;
+    'privacy-policy-label-2': string;
+    'sub-headline': string;
+    'terms-and-conditions-label': string;
+    'terms-and-conditions-label-link': string;
+    'terms-and-conditions-label-2': string;
+    'travel-distance': string;
+    'travel-expenses': string;
+    'user-sign-up-login-1': string;
+    'user-sign-up-login-2': string;
+    'date-of-birth': string;
+    'user-sign-up-title': string;
+    'user-sign-up-subtitle': string;
+    'chef-sign-up-title': string;
+}

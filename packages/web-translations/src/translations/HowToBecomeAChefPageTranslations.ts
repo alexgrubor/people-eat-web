@@ -1,0 +1,35 @@
+export interface HowToBecomeAChefPageTranslations {
+    'addition-data-title': string;
+    'addition-title': string;
+    'addition-travel-title': string;
+    'calculate-header': string;
+    'calculate-title': string;
+    'example-description': string;
+    feature01: string;
+    feature02: string;
+    feature03: string;
+    feature04: string;
+    feature05: string;
+    feature06: string;
+    header: string;
+    'orders-count-title': string;
+    'per-month': string;
+    'point-chef-description': string;
+    'point-hobby-chef-description': string;
+    'promo-title': string;
+    qualification: string;
+    'register-button': string;
+    'section-3-title': string;
+    'section-4-title': string;
+    'section-5-title': string;
+    'section-6-title': string;
+    'section-7-title': string;
+    'sign-up-button': string;
+    'step-1': string;
+    'step-1-description': string;
+    'step-2': string;
+    'step-2-description': string;
+    'step-3': string;
+    'step-3-description': string;
+    'how-to-become-a-chef-title': string;
+}

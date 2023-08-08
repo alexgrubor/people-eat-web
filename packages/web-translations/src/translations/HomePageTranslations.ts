@@ -1,0 +1,30 @@
+export interface HomePageTranslations {
+    'headline-01': string;
+    'headline-02': string;
+    'headline-03': string;
+    'sub-headline-01': string;
+    'sub-headline-02': string;
+    'sub-headline-03': string;
+    'section-1-bullet-point-1-description': string;
+    'section-1-bullet-point-2-description': string;
+    'section-1-bullet-point-3-description': string;
+    'section-2-header': string;
+    'section-3-header': string;
+    'section-3-bullet-point-1-title': string;
+    'section-3-bullet-point-1-description': string;
+    'section-3-bullet-point-2-title': string;
+    'section-3-bullet-point-2-description': string;
+    'section-3-bullet-point-3-title': string;
+    'section-3-bullet-point-3-description': string;
+    'section-4-header': string;
+    'section-4-bullet-point-1-description': string;
+    'section-4-bullet-point-2-description': string;
+    'section-4-bullet-point-3-description': string;
+    'section-5-header': string;
+    'section-5-subheader': string;
+    'menus-section-header': string;
+    'map-section-header': string;
+    'chefs-section-header': string;
+    'ratings-section-header': string;
+    'support-section-header': string;
+}

@@ -1,0 +1,10 @@
+export { AboutUsPageTranslations } from './AboutUsPageTranslations';
+export { CookProfilePageTranslations } from './CookProfilePageTranslations';
+export { CookSignUpPageTranslations } from './CookSignUpPageTranslations';
+export { GlobalBookingRequestPageTranslations } from './GlobalBookingRequestPageTranslations';
+export { HomePageTranslations } from './HomePageTranslations';
+export { HowToBecomeAChefPageTranslations } from './HowToBecomeAChefPageTranslations';
+export { ImprintPageTranslations } from './ImprintPageTranslations';
+export { SignInPageTranslations } from './SignInPageTranslations';
+export { UserProfilePageTranslations } from './UserProfilePageTranslations';
+export { UserSignUpPageTranslations } from './UserSignUpPageTranslations';
