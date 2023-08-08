@@ -15,6 +15,7 @@
         "skipDefaultLibCheck": true,
         "baseUrl": ".",
         "paths": {
+            "@people-eat/web-adapter-data-source": ["packages/web-adapter-data-source/src/index.ts"],
             "@people-eat/web-adapter-data-source-mock": ["packages/web-adapter-data-source-mock/src/index.ts"],
             "@people-eat/web-components": ["packages/web-components/src/index.ts"],
             "@people-eat/web-domain": ["packages/web-domain/src/index.ts"],

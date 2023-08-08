@@ -1,0 +1,20 @@
+{
+    "name": "@people-eat/web-adapter-data-source",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/people-eat/web.git",
+        "directory": "packages/web-adapter-data-source"
+    },
+    "bugs": {
+        "url": "https://github.com/people-eat/web/issues"
+    },
+    "license": "UNLICENSED",
+    "private": true,
+    "version": "0.0.0",
+    "main": "./index.js",
+    "module": "./index.mjs",
+    "typings": "./index.d.ts",
+    "dependencies": {
+        "@people-eat/web-domain": "*"
+    }
+}
