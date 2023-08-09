@@ -9,6 +9,7 @@
     },
     "license": "UNLICENSED",
     "scripts": {
+        "dev": "nx serve web-app-next",
         "format": "prettier --write .",
         "format:check": "prettier --check .",
         "lint": "eslint . --ext js,cjs,mjs,ts,cts,mts --fix",
